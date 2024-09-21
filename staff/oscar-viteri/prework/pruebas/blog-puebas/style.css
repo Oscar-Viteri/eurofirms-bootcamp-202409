@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+.pruebas {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    transform: skew(-50deg);
+}
+
+.div-diagonal {
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    margin: 10%;
+
+    /* .article-cut-1 {
+    width: 100%;
+    height: 33%;
+    border: 1px solid black;
+}
+
+.article-cut-2 {
+    width: 100%;
+    height: 33%;
+    border: 1px solid black;
+
+}
+
+.article-cut-3 {
+    width: 100%;
+    height: 33%;
+    border: 1px solid black;
+}
+/*
